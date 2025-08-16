@@ -42,13 +42,14 @@ smartawreed_demo/
 ```bash
 git clone https://github.com/YOUR_USERNAME/smartawreed_demo.git
 cd smartawreed_demo
-
+```
 
 ###  2️⃣ Start the Backend (FastAPI)
+```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
-
+```
 
 
 Backend will run at 👉 http://127.0.0.1:8000
@@ -58,14 +59,11 @@ Docs available at: http://127.0.0.1:8000/docs
 ### 3️⃣ Start the Frontend (Streamlit)
 
 Open a new terminal:
+```bash
 cd frontend
 pip install -r requirements.txt
 streamlit run app.py
-
-
-cd frontend
-pip install -r requirements.txt
-streamlit run app.py
+```
 
 
 Frontend will run at 👉 http://localhost:8501
