@@ -20,15 +20,25 @@ This demo project showcases the **core features** of SmartAwreed with a professi
 
 smartawreed_demo/
 │── backend/ # FastAPI backend (APIs for suppliers, retailers, orders)
+
 │ ├── main.py
+
 │ ├── models.py
+
 │ ├── database.py
+
 │ └── requirements.txt
+
 │
+
 │── frontend/ # Streamlit frontend (UI for suppliers & retailers)
+
 │ ├── app.py
+
 │ └── requirements.txt
+
 │
+
 │── README.md # Project documentation
 
 
@@ -78,43 +88,37 @@ Frontend → Streamlit Community Cloud (1-click deploy)
 
 📊 Sample Accounts
 
-Supplier
+** Supplier
 Username: supplier1
 Password: password123
 
-Retailer
+** Retailer
 Username: retailer1
 Password: password123
 
 🧭 Roadmap
 
-Multi-language support (Arabic + English)
-
-Mobile app version (React Native)
-
-Real payment integration (Vodafone Cash, Fawry, Stripe)
-
-AI-powered demand forecasting
+** Multi-language support (Arabic + English)
+** Mobile app version (React Native)
+** Real payment integration (Vodafone Cash, Fawry, Stripe)
+** AI-powered demand forecasting
 
 👨‍💻 Tech Stack
 
-Backend: FastAPI, SQLite
-
-Frontend: Streamlit
-
-Language: Python 3.10
-
-Deployment: Streamlit Cloud + Render
+** Backend: FastAPI, SQLite
+** Frontend: Streamlit
+** Language: Python 3.10
+** Deployment: Streamlit Cloud + Render
 
 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+** Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
 📧 Contact
 
-For questions, partnership, or investment opportunities:
-Your Name – Founder, SmartAwreed
-✉️ Email: your_email@example.com
+** For questions, partnership, or investment opportunities:
+Hagar – Founder, SmartAwreed
+✉️ Email: hagarmarzouk@gmail.com
 🌐 Website: (coming soon)
 
 ✨ This is a demo project for competition & investor presentation purposes. The live platform will include advanced integrations and scalability features.
